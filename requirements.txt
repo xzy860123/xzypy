@@ -1,0 +1,6 @@
+pyfiglet
+colorama
+string
+qrcode
+base64
+zai
